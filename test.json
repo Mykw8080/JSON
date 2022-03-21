@@ -5,7 +5,7 @@
 				"Locker Number": "1",
 				"Hangar": "Hangar C",
 				"Status": "Vaccant",
-				"Employee Name": "TAIMOORI",
+				"Employee Name": "TAIMOOR",
 				"Employee ID": "428021"
 			},
 			{
@@ -13,7 +13,7 @@
 				"Locker Number": "2",
 				"Hangar": "Hangar A",
 				"Status": "Occupied",
-				"Employee Name": "HARMEEJ",
+				"Employee Name": "HARMEET",
 				"Employee ID": "398373"
 			},
 			{
@@ -500,7 +500,7 @@
 				"ID": "63",
 				"Locker Number": "63",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "KHAN",
 				"Employee ID": "435177"
 			},
@@ -508,7 +508,7 @@
 				"ID": "64",
 				"Locker Number": "64",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "TIELSMAN",
 				"Employee ID": "438529"
 			},
@@ -516,7 +516,7 @@
 				"ID": "65",
 				"Locker Number": "65",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ADAMA",
 				"Employee ID": "441880"
 			},
@@ -524,7 +524,7 @@
 				"ID": "66",
 				"Locker Number": "66",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "HARUN",
 				"Employee ID": "445232"
 			},
@@ -532,7 +532,7 @@
 				"ID": "67",
 				"Locker Number": "67",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "TRAORE",
 				"Employee ID": "448584"
 			},
@@ -540,7 +540,7 @@
 				"ID": "68",
 				"Locker Number": "68",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "MBAPPE",
 				"Employee ID": "451936"
 			},
@@ -548,7 +548,7 @@
 				"ID": "69",
 				"Locker Number": "69",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "KARIM",
 				"Employee ID": "455287"
 			},
@@ -556,7 +556,7 @@
 				"ID": "70",
 				"Locker Number": "70",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "LIONEL",
 				"Employee ID": "458639"
 			},
@@ -564,7 +564,7 @@
 				"ID": "71",
 				"Locker Number": "71",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "CRISTIAN",
 				"Employee ID": "461991"
 			},
@@ -572,7 +572,7 @@
 				"ID": "72",
 				"Locker Number": "72",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "PULISIC",
 				"Employee ID": "465342"
 			},
@@ -580,7 +580,7 @@
 				"ID": "73",
 				"Locker Number": "73",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "JANTE",
 				"Employee ID": "468694"
 			},
@@ -588,7 +588,7 @@
 				"ID": "74",
 				"Locker Number": "74",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "HUDUS",
 				"Employee ID": "472046"
 			},
@@ -596,7 +596,7 @@
 				"ID": "75",
 				"Locker Number": "75",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "EMILIA",
 				"Employee ID": "475397"
 			},
@@ -604,7 +604,7 @@
 				"ID": "76",
 				"Locker Number": "76",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ALLAN",
 				"Employee ID": "478749"
 			},
@@ -612,7 +612,7 @@
 				"ID": "77",
 				"Locker Number": "77",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "GREER",
 				"Employee ID": "482101"
 			},
@@ -620,7 +620,7 @@
 				"ID": "78",
 				"Locker Number": "78",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "SHAUN",
 				"Employee ID": "485452"
 			},
@@ -628,7 +628,7 @@
 				"ID": "79",
 				"Locker Number": "79",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "PITTMAN",
 				"Employee ID": "488804"
 			},
@@ -636,7 +636,7 @@
 				"ID": "80",
 				"Locker Number": "80",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "KIRK",
 				"Employee ID": "492156"
 			},
@@ -644,7 +644,7 @@
 				"ID": "81",
 				"Locker Number": "81",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "TODD",
 				"Employee ID": "495507"
 			},
@@ -652,7 +652,7 @@
 				"ID": "82",
 				"Locker Number": "82",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "LOWELL",
 				"Employee ID": "498859"
 			},
@@ -660,7 +660,7 @@
 				"ID": "83",
 				"Locker Number": "83",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ALVARDO",
 				"Employee ID": "502211"
 			},
@@ -668,7 +668,7 @@
 				"ID": "84",
 				"Locker Number": "84",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "LINDSAY",
 				"Employee ID": "505562"
 			},
@@ -676,7 +676,7 @@
 				"ID": "85",
 				"Locker Number": "85",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "BARNES",
 				"Employee ID": "508914"
 			},
@@ -684,7 +684,7 @@
 				"ID": "86",
 				"Locker Number": "86",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ORLANDO",
 				"Employee ID": "512266"
 			},
@@ -692,7 +692,7 @@
 				"ID": "87",
 				"Locker Number": "87",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ANDREW",
 				"Employee ID": "515617"
 			},
@@ -700,7 +700,7 @@
 				"ID": "88",
 				"Locker Number": "88",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "TOBY",
 				"Employee ID": "518969"
 			},
@@ -708,7 +708,7 @@
 				"ID": "89",
 				"Locker Number": "89",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "CHRISTY",
 				"Employee ID": "522321"
 			},
@@ -716,7 +716,7 @@
 				"ID": "90",
 				"Locker Number": "90",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "WEST",
 				"Employee ID": "525673"
 			},
@@ -724,7 +724,7 @@
 				"ID": "91",
 				"Locker Number": "91",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "TIFFANY",
 				"Employee ID": "529024"
 			},
@@ -732,7 +732,7 @@
 				"ID": "92",
 				"Locker Number": "92",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "KAREN",
 				"Employee ID": "532376"
 			},
@@ -740,7 +740,7 @@
 				"ID": "93",
 				"Locker Number": "93",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ANTHONY",
 				"Employee ID": "535728"
 			},
@@ -748,7 +748,7 @@
 				"ID": "94",
 				"Locker Number": "94",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "DOYLE",
 				"Employee ID": "539079"
 			},
@@ -756,7 +756,7 @@
 				"ID": "95",
 				"Locker Number": "95",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "ARMSTRONG",
 				"Employee ID": "542431"
 			},
@@ -764,7 +764,7 @@
 				"ID": "96",
 				"Locker Number": "96",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "NEIL",
 				"Employee ID": "545783"
 			},
@@ -772,7 +772,7 @@
 				"ID": "97",
 				"Locker Number": "97",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "LATOYA",
 				"Employee ID": "549134"
 			},
@@ -780,7 +780,7 @@
 				"ID": "98",
 				"Locker Number": "98",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "MANNING",
 				"Employee ID": "552486"
 			},
@@ -788,7 +788,7 @@
 				"ID": "99",
 				"Locker Number": "99",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "TOM",
 				"Employee ID": "555838"
 			},
@@ -796,7 +796,7 @@
 				"ID": "100",
 				"Locker Number": "100",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "MYKW",
 				"Employee ID": "555547"
 			},
@@ -804,7 +804,7 @@
 				"ID": "101",
 				"Locker Number": "101",
 				"Hangar": "Hangar A",
-				"Status": "Vacant",
+				"Status": "Vaccant",
 				"Employee Name": "PETER",
 				"Employee ID": "559189"
 			}
