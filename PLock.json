@@ -9,6 +9,14 @@
 			"Job Title": "TECH"
 		},
 		{
+			"Locker Hangar": "Hangar F",
+			"Locker Status": "Occupied",
+			"Locker Number": "6",
+			"Employee ID": "375276",
+			"Employee Name": "Mohid Warsi",
+			"Job Title": "TECH"
+		},
+		{
 			"Locker Hangar": "Hangar D",
 			"Locker Status": "Occupied",
 			"Locker Number": "1",
@@ -13472,14 +13480,6 @@
 			"Employee ID": "450368",
 			"Employee Name": "Hannan Ashfaq",
 			"Job Title": "TECH"
-		},
-		{
-			"Locker Hangar": "Hangar F",
-			"Locker Status": "Occupied",
-			"Locker Number": "Unavailable",
-			"Employee ID": "489089",
-			"Employee Name": "Umair Khan",
-			"Job Title": "TECH",
 		},
 	]
 }
