@@ -13472,6 +13472,15 @@
 			"Employee ID": "450368",
 			"Employee Name": "Hannan Ashfaq",
 			"Job Title": "TECH"
-		}
+		},
+		{
+			"Locker Hangar": "Hangar F",
+			"Locker Status": "Occupied",
+			"Locker Number": "Unavailable",
+			"Employee ID": "450797",
+			"Employee Name": "Makkan",
+			"Job Title": "TECH",
+			"": ""
+		},
 	]
 }
