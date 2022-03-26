@@ -13449,7 +13449,7 @@
 			"Job Title": "LAE"
 		},
 		{
-			"Locker Hangar": " Hangar J ",
+			"Locker Hangar": "Hangar J ",
 			"Locker Status": "Occupied",
 			"Locker Number": "106",
 			"Employee ID": "477227",
@@ -13457,7 +13457,7 @@
 			"Job Title": "LAE"
 		},
 		{
-			"Locker Hangar": " Hangar J ",
+			"Locker Hangar": "Hangar J ",
 			"Locker Status": "Vacant",
 			"Locker Number": "16",
 			"Employee ID": "#N/A",
@@ -13465,7 +13465,7 @@
 			"Job Title": "#N/A"
 		},
 		{
-			"Locker Hangar": " Hangar J ",
+			"Locker Hangar": "Hangar J ",
 			"Locker Status": "Vacant",
 			"Locker Number": "73",
 			"Employee ID": "#N/A",
